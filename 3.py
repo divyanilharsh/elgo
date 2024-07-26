@@ -7,7 +7,7 @@ import matplotlib.colors as mcolors
 
 # File name
 today_date = datetime.now().strftime('%Y-%m-%d')
-expiry_date = '25-Jul-2024'  # Correct expiry date format
+expiry_date = '08-Aug-2024'  # Correct expiry date format
 input_filename = f'realtime_pcr_data_{today_date}_expiry_{expiry_date}.csv'
 
 # Read the CSV file
